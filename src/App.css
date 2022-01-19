@@ -1,0 +1,7 @@
+.app {
+  z-index: 1000;
+}
+
+::selection {
+  background-color: #172533;
+}
